@@ -1,0 +1,37 @@
+[
+    {
+        "point_P1": "2",
+        "type": "Ace",
+        "point_P2": "5"
+    },
+    {
+        "point_P1": "8",
+        "type": "Erro de Devolução de Saque",
+        "point_P2": "6"
+    },
+    {
+        "point_P1": "6",
+        "type": "Erro de Saque",
+        "point_P2": "10"
+    },
+    {
+        "point_P1": "4",
+        "type": "40 X 40",
+        "point_P2": "6"
+    },
+    {
+        "point_P1": "9/14",
+        "type": "Break Point",
+        "point_P2": "11/20"
+    },
+    {
+        "point_P1": "33",
+        "type": "Winners",
+        "point_P2": "34"
+    },
+    {
+        "point_P1": "93",
+        "type": "Pontos Ganhos",
+        "point_P2": "100"
+    }
+]

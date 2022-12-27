@@ -1,5 +1,6 @@
 import React from 'react';
 import { Page, Text, View, Document, StyleSheet, Image } from '@react-pdf/renderer';
+import scoutbt from '../../../data/scoutbt.json'
 
 // Create styles
 const styles = StyleSheet.create({
@@ -14,7 +15,7 @@ const styles = StyleSheet.create({
     width: '90%',
     backgroundColor: '#073763ff',
     height: 250,
-    margin:'20 auto 0',
+    margin:'50 auto 0',
     borderTopRightRadius: 20,
     borderTopLeftRadius: 20
   },
@@ -108,7 +109,15 @@ export default function MyDocument(){
           </View>
           
           <View style={styles.sectionWhite}>
-
+            {
+              scoutbt.map((item, index) => 
+                <View style={[styles.boxTop, {justifyContent:'space-between', borderBottom:'1px solid #000', padding:'15 10'}]} key={index}>
+                  <Text>{item.point_P1}</Text>
+                  <Text>{item.type}</Text>
+                  <Text>{item.point_P2}</Text>
+                </View>
+              )
+            }
           </View>
           
         </Page>
