@@ -10,10 +10,10 @@ export default function Header() {
                 <Link href='/'>Home</Link>
               </li>
               <li>
-                <Link href='/Components/Relatorio1'>Relatório 1</Link>
+                <Link href='/Components/Relatorio1'>Relatório Beach</Link>
               </li>
               <li>
-                <Link href='/Components/Relatorio2'>Relatório 2</Link>
+                <Link href='/Components/Relatorio2'>Relatório NF</Link>
               </li>
             </ul>
           </nav>

@@ -1,0 +1,34 @@
+[
+    {
+        "codigo": "51354",
+        "descricao": "Coxa c/ sobrecoxa",
+        "quantidade": "4,28",
+        "unidade": "KG",
+        "valor_unid": "5,48",
+        "valor_total": "23,43"
+    },
+    {
+        "codigo": "25897",
+        "descricao": "Açucar Nordeste",
+        "quantidade": "1,00",
+        "unidade": "UN",
+        "valor_unid": "5,18",
+        "valor_total": "5,18"
+    },
+    {
+        "codigo": "19130",
+        "descricao": "Açucar Nordeste",
+        "quantidade": "1,00",
+        "unidade": "UN",
+        "valor_unid": "5,18",
+        "valor_total": "5,18"
+    },
+    {
+        "codigo": "25879",
+        "descricao": "Açucar Nordeste",
+        "quantidade": "1,00",
+        "unidade": "UN",
+        "valor_unid": "5,18",
+        "valor_total": "5,18"
+    }
+]
